@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cashier_HelpAndDoc", "Cashier_HelpAndDoc\Cashier_HelpAndDoc.csproj", "{B412420C-4F3A-4C80-8371-DCFD8BA13D38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B412420C-4F3A-4C80-8371-DCFD8BA13D38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B412420C-4F3A-4C80-8371-DCFD8BA13D38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B412420C-4F3A-4C80-8371-DCFD8BA13D38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B412420C-4F3A-4C80-8371-DCFD8BA13D38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8A42B90-20B3-412D-81B9-B3636FF5D97D}
+	EndGlobalSection
+EndGlobal
